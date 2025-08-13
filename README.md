@@ -26,7 +26,7 @@ Environment Setup
 .Operators
 
 
-How to Run (IntelliJ IDEA)Open the Project
+How to Run (IntelliJ IDEA)Open the Project--->
 
 .Launch IntelliJ IDEA.
 .Click File → Open, then select the project folder.
